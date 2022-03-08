@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Andrés Villa
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Pontificia Universidad Católica de Chile
+  url: https://www.uc.cl/#
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have always stood out for my responsibility, perseverance, excellent academic results, and good technical and research skills. In this way, I have achieved several academic recognitions, among which Erasmus Mundus scholarship and ANID scholarship awarded by the Chilean government to do a PhD in computer science. Currently, I am PhD student at IALab group PUC, passionate about computer vision. I'm trying to figure out how to give the machines and artificial agents the ability to reason and see the world as human beings do. Inspired by this, I am focusing on learning to recognize novel human actions with few samples and multimodal information like humans do.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human Action Classification
+- Video Understanding
+- Few-Shot Learning
+- Continual Learning (CIL)
+- Multimodal Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Pontificia Universidad Católica de Chile, Santiago - Chile
+    year: March 2019 - Present
+  - course: Bs. Electronic Engineering (GPA: 4.53/5.0, Magna Cumm laude)
+    institution: Universidad del Norte, Barranquilla - Colombia
+    year: February 2012 - March 2017
+  - course: Academic exchange
+    institution: Universidad Politécnica de Madrid, Madrid - Spain
+    year: September 2015 - July 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
